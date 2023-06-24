@@ -115,8 +115,6 @@ public class Loopconcept {
 				//1. webtable paginaton: check if element is already present in the table , click on it and end the loop
 				//2. go and check the element first and then start the while loop
 				//3. calendar: 
-				
-				
 				//4. for each
 				//5. streams
 				
